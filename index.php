@@ -175,7 +175,7 @@
   <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
   <script>
     // Set the date we're counting down to
-    var countDownDate = new Date("Sep 16, 2019 00:00:00").getTime();
+    var countDownDate = new Date("Sep 30, 2019 00:00:00").getTime();
 
     // Update the count down every 1 second
     var x = setInterval(function() {
